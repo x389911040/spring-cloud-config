@@ -328,7 +328,7 @@ shiro:
 mybatis:
 
   # @MyBatisDao、Aliases 扫描基础包，如果多个，用“,”分隔
-  scanBasePackage: com.jeesite.modules,com.rd.modules
+  scanBasePackage: com.jeesite.modules,com.rd.modules,com.jeesite.selfbuy,com.jeesite.monopolize,com.jeesite.receiving
   
 # Web 相关
 web:
